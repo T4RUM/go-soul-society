@@ -1,0 +1,56 @@
+# =========================
+# Go
+# =========================
+
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binários gerados pelo "go test -c"
+*.test
+
+# Coverage
+*.out
+coverage.out
+coverage.html
+
+# Build
+/bin/
+/build/
+/dist/
+
+# Arquivos temporários
+/tmp/
+*.tmp
+
+# =========================
+# JetBrains / GoLand
+# =========================
+
+.idea/
+*.iml
+
+# =========================
+# Variáveis de ambiente
+# =========================
+
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Sistema operacional
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+
+*.log
+/logs/
