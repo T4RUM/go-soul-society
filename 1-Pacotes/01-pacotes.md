@@ -878,8 +878,7 @@ Neste experimento foi possível observar que:
 * `go install` compila e instala um executável no ambiente Go.
 
 ---
-
-> Um pacote separa responsabilidades. Um módulo reúne pacotes. E `main` transforma um deles em um programa executável.
 <p align="center">
-  <img src="docs/images/footer.png" alt="Go Soul Society">
+  <img src="../docs/images/footer.png" alt="Go Soul Society">
 </p>
+
