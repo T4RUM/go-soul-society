@@ -879,11 +879,5 @@ Neste experimento foi possível observar que:
 
 ---
 <p align="center">
-<<<<<<< Updated upstream
-  <img src="../docs/images/footer.png" alt="Go Soul Society">
-</p>
-
-=======
   <img src="../docs/images/footer.jfif" alt="Go Soul Society">
 </p>
->>>>>>> Stashed changes
